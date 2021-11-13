@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CICD-GitHubActions-/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/CICD-GitHubActions-/static/js/main.7fe412db.chunk.js",
+    "main.js.map": "/CICD-GitHubActions-/static/js/main.7fe412db.chunk.js.map",
+    "runtime-main.js": "/CICD-GitHubActions-/static/js/runtime-main.afc1e58b.js",
+    "runtime-main.js.map": "/CICD-GitHubActions-/static/js/runtime-main.afc1e58b.js.map",
+    "static/js/2.1704c591.chunk.js": "/CICD-GitHubActions-/static/js/2.1704c591.chunk.js",
+    "static/js/2.1704c591.chunk.js.map": "/CICD-GitHubActions-/static/js/2.1704c591.chunk.js.map",
+    "index.html": "/CICD-GitHubActions-/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/CICD-GitHubActions-/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1704c591.chunk.js.LICENSE.txt": "/CICD-GitHubActions-/static/js/2.1704c591.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afc1e58b.js",
+    "static/js/2.1704c591.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7fe412db.chunk.js"
+  ]
+}
